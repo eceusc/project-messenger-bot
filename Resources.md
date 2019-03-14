@@ -14,3 +14,6 @@
 
 ### Workshop 3: More Advanced Functions
 [Exploring the API](https://hackmd.io/p/H14CXEFNE#/)
+
+### Workshop 4: Add-Ons
+[Messenger Profile Add-Ons](https://hackmd.io/p/Sy4ysGOP4#/)
